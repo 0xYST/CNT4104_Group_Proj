@@ -8,7 +8,7 @@ API ideas:
 - [Weather](https://www.youtube.com/watch?v=UjeXpct3p7M)
 
 
-Sprint 1 Goals:
+# Sprint 1 Goals:
 - Submit a jpg or other image file showing the eventual plan
 - Not all menu's working or color scheme but the basic homepage is setup (but links not working)
 - Should display at least the homepage
