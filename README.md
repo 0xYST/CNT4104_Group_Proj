@@ -7,6 +7,11 @@ API ideas:
 - [Spotify](https://www.youtube.com/watch?v=fVcz-1rVQcs)
 - [Weather](https://www.youtube.com/watch?v=UjeXpct3p7M)
 
+# Things to do First
+- Base our tech stack
+- Base documentation (Proof of concept / Overall goals)
+- Team GPP Guidelines set up
+
 
 # Sprint 1 Goals:
 - Submit a jpg or other image file showing the eventual plan
