@@ -4,5 +4,5 @@ We will deploy the project with docker to show that we understand scaling and wo
 
 API ideas:
 - [Youtube](https://www.youtube.com/watch?v=VNmdw9ZNr1I)
-- Spotify
+- [Spotify](https://www.youtube.com/watch?v=fVcz-1rVQcs)
 - Weather
