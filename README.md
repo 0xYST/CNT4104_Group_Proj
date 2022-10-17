@@ -18,12 +18,6 @@ Working with the Spotify REST API to understand http queries and understanding h
 - Jason – Back end and API integration
 
 
-# Things To Do First:
-- Base our tech stack
-- Base documentation (Proof of concept / Overall goals)
-- Team GPP Guidelines set up
-
-
 # Sprint 1 Goals:
 - Submit a jpg or other image file showing the eventual plan
 - Not all menu's working or color scheme but the basic homepage is setup (but links not working)
