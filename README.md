@@ -13,9 +13,9 @@ We will deploy the project with docker to show that we understand scaling and wo
 Working with the Spotify REST API to understand http queries and understanding how to deploy projects with docker where our users can use their web browser to access our web-based software. Docker can also be a gateway to understanding load balancing with distributed systems which is an important concept for understanding scalability and network load.
 
 # Group Roles:
-•	Jordan – Docker deployment and project management
-•	Chance – Front end UX/UI design
-•	Jason – Back end and API integration
+- Jordan – Docker deployment and project management
+- Chance – Front end UX/UI design
+- Jason – Back end and API integration
 
 
 # Things To Do First:
