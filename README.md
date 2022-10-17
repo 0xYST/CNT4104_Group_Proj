@@ -2,10 +2,21 @@
 In this project our team will create a front end and back end and use an API to return data to the front end to give the user interesting metadata.
 We will deploy the project with docker to show that we understand scaling and working with containers and API calls on a server.
 
-API ideas:
-- [Youtube](https://www.youtube.com/watch?v=VNmdw9ZNr1I)
-- [Spotify](https://www.youtube.com/watch?v=fVcz-1rVQcs)
-- [Weather](https://www.youtube.com/watch?v=UjeXpct3p7M)
+# Goals:
+-	Give the user the ability to query with our interface
+-	Create a good architecture for calling to the back end and getting it to display in the front end
+-	Creating custom docker images for our front and back end 
+-	Getting our containers to communicate with one another 
+-	Learning how to implement very basic distributed systems with our containers 
+
+# Relation to Networking:
+Working with the Spotify REST API to understand http queries and understanding how to deploy projects with docker where our users can use their web browser to access our web-based software. Docker can also be a gateway to understanding load balancing with distributed systems which is an important concept for understanding scalability and network load.
+
+# Group Roles:
+•	Jordan – Docker deployment and project management
+•	Chance – Front end UX/UI design
+•	Jason – Back end and API integration
+
 
 # Things To Do First:
 - Base our tech stack
