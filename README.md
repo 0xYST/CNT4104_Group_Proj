@@ -19,11 +19,8 @@ Working with the Spotify REST API to understand http queries and understanding h
 
 
 # Sprint 1 Goals:
-- Submit a jpg or other image file showing the eventual plan
-- Not all menu's working or color scheme but the basic homepage is setup (but links not working)
-- Should display at least the homepage
-- You can just provide a URL if online or a screenshot with the URL shown in the browser
-- Other pages as possible
-- Basically a complete CSS with the homepage working well (and other's inheriting) is great
-- A Basic Homepage but several others setup (but not pretty) is also good
-- Depends on plan
+- Create a basic wireframe to get an idea of what we want the user to interact with
+- start working on the flask api for communication with the spotify api
+- work on dockerizing the flask api 
+- make sure we scope out the authentication token from the actual codebase
+- make basic documentation and take some screenshots of the code at work
