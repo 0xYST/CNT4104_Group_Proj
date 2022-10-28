@@ -26,4 +26,4 @@ Working with the Spotify REST API to understand http queries and understanding h
 - make basic documentation and take some screenshots of the code at work
 
 # Very Basic Wireframe Concept
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Hexseral/CNT4104_Group_Proj/blob/master/wireframe.png)
