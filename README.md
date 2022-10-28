@@ -18,7 +18,7 @@ Working with the Spotify REST API to understand http queries and understanding h
 - Jason – Back end and API integration
 
 
-# Sprint 1 Goals:
+# Sprint 1 Goals: (SEE ISSUES TAB)
 - Create a basic wireframe to get an idea of what we want the user to interact with
 - start working on the flask api for communication with the spotify api
 - work on dockerizing the flask api 
