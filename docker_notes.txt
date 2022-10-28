@@ -1,0 +1,12 @@
+Docker Image = The Blueprint to build a container (Operating System, Files, Packages, Dependancies)
+
+The Mecca of docker images to build your own containers with on any server or computer  https://hub.docker.com/
+
+Docker Container = A running docker image is a container 
+Container CONTAINS everything you need to run an application
+
+Kubernetes = If a container is an instrument in an orchestra then Kubernetes is the conductor of it. Kubernetes is a way of logisitcally scaling containers in a distributed system setting for handling complex systems.
+
+If I handed you a docker image for something, you can easily build a container for it and use whatever software I created without worrying about compatibility of OS, dependancies, etc.
+
+VM vs Containers - VM has to have an os on it reguardless of servers os, Containers just use the os of whatever server it's on making it lightweight, protable, & swift.
