@@ -1,18 +1,41 @@
-Docker Image = The Blueprint to build a container (Operating System, Files, Packages, Dependancies)
+Docker Image = 
+The Blueprint to build a container (Operating System, Files, Packages, Dependancies)
 
 The Mecca of docker images to build your own containers with on any server or computer  https://hub.docker.com/
 
-Docker Container = A running docker image is a container 
+Docker Container =
+A running docker image is a container 
 Container CONTAINS everything you need to run an application
 
-Kubernetes = If a container is an instrument in an orchestra then Kubernetes is the conductor of it. Kubernetes is a way of logisitcally scaling containers in a distributed system setting for handling complex systems.
+Kubernetes = 
+If a container is an instrument in an orchestra then Kubernetes is the conductor of it. Kubernetes is a way of logisitcally scaling containers in a distributed system setting for handling complex systems.
 
 If I handed you a docker image for something, you can easily build a container for it and use whatever software I created without worrying about compatibility of OS, dependancies, etc.
 
-VM vs Containers - VM has to have an os on it reguardless of servers os, Containers just use the os of whatever server it's on making it lightweight, protable, & swift.
+VM vs Containers -
+VM has to have an os on it reguardless of servers os, Containers just use the os of whatever server it's on making it lightweight, protable, & swift.
 
 container - A container is a runtime instance of a docker image. A Docker container consists of
 - A Docker image
 - An execution environment
 - A standard set of instructions
 The concept is borrowed from shipping containers, which define a standard to ship goods globally. Docker defines a standard to ship software.
+
+container image	-
+Docker images are the basis of containers. An image is an ordered collection of root filesystem changes and the corresponding execution parameters for use within a container runtime. An image typically contains a union of layered filesystems stacked on top of each other.
+
+node - 
+A node is a physical or virtual machine running an instance of the Docker Engine in swarm mode.
+Manager nodes perform swarm management and orchestration duties. By default manager nodes are also worker nodes.
+Worker nodes execute tasks.
+
+registry -
+A Registry is a hosted service containing repositories of images which responds to the Registry API.
+The default registry can be accessed using a browser at Docker Hub or using the docker search command.
+
+service -
+A service is the definition of how you want to run your application containers in a swarm. At the most basic level, a service defines which container image to run in the swarm and which commands to run in the container. For orchestration purposes, the service defines the “desired state”, meaning how many containers to run as tasks and constraints for deploying the containers.
+Frequently a service is a microservice within the context of some larger application. Examples of services might include an HTTP server, a database, or any other type of executable program that you wish to run in a distributed environment.
+
+swarm - 
+A swarm is a cluster of one or more Docker Engines running in swarm mode.
