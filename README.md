@@ -24,3 +24,6 @@ Working with the Spotify REST API to understand http queries and understanding h
 - work on dockerizing the flask api 
 - make sure we scope out the authentication token from the actual codebase
 - make basic documentation and take some screenshots of the code at work
+
+# Very Basic Wireframe Concept
+- put img here
