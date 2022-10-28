@@ -26,4 +26,4 @@ Working with the Spotify REST API to understand http queries and understanding h
 - make basic documentation and take some screenshots of the code at work
 
 # Very Basic Wireframe Concept
-- put img here
+![alt text](http://url/to/img.png)
