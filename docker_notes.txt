@@ -34,7 +34,8 @@ A Registry is a hosted service containing repositories of images which responds 
 The default registry can be accessed using a browser at Docker Hub or using the docker search command.
 
 service -
-A service is the definition of how you want to run your application containers in a swarm. At the most basic level, a service defines which container image to run in the swarm and which commands to run in the container. For orchestration purposes, the service defines the “desired state”, meaning how many containers to run as tasks and constraints for deploying the containers.
+A service is the definition of how you want to run your application containers in a swarm. At the most basic level, a service defines which container image to run in the swarm and which commands to run in the container. 
+For orchestration purposes, the service defines the “desired state”, meaning how many containers to run as tasks and constraints for deploying the containers.
 Frequently a service is a microservice within the context of some larger application. Examples of services might include an HTTP server, a database, or any other type of executable program that you wish to run in a distributed environment.
 
 swarm - 
