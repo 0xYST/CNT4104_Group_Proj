@@ -10,3 +10,9 @@ Kubernetes = If a container is an instrument in an orchestra then Kubernetes is 
 If I handed you a docker image for something, you can easily build a container for it and use whatever software I created without worrying about compatibility of OS, dependancies, etc.
 
 VM vs Containers - VM has to have an os on it reguardless of servers os, Containers just use the os of whatever server it's on making it lightweight, protable, & swift.
+
+container - A container is a runtime instance of a docker image. A Docker container consists of
+- A Docker image
+- An execution environment
+- A standard set of instructions
+The concept is borrowed from shipping containers, which define a standard to ship goods globally. Docker defines a standard to ship software.
