@@ -27,3 +27,6 @@ Working with the Spotify REST API to understand http queries and understanding h
 
 # Very Basic Wireframe Concept
 ![alt text](https://github.com/Hexseral/CNT4104_Group_Proj/blob/master/wireframe.png)
+
+# Wireframe Two
+![alt text](https://github.com/Hexseral/CNT4104_Group_Proj/blob/master/wireframe.png)
