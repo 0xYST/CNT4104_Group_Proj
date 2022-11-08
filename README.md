@@ -30,3 +30,7 @@ Working with the Spotify REST API to understand http queries and understanding h
 
 # Wireframe Concept Two
 ![alt text](https://github.com/Hexseral/CNT4104_Group_Proj/blob/master/Wireframe%20V2.png)
+
+# Front End Basics
+We decided to go with react as our front end and for this sprint and we worked to get the proper files installed and deployed so we can start bringing the wireframe
+to life
