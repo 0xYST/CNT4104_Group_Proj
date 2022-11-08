@@ -33,4 +33,5 @@ Working with the Spotify REST API to understand http queries and understanding h
 
 # Front End Basics
 We decided to go with react as our front end and for this sprint and we worked to get the proper files installed and deployed so we can start bringing the wireframe
-to life
+to life (See Below)
+![alt text](https://github.com/Hexseral/CNT4104_Group_Proj/blob/master/basic_demo.png)
