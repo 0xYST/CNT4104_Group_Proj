@@ -19,6 +19,9 @@ app's `.py` file
 in Windows command line:
 `set FLASK_APP=app.py`
 
+install the requirements
+`pip install -r reqs.txt`
+
 Then run the app
 `python app.py <client_id> <client_secret>`
 
