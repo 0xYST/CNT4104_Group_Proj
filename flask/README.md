@@ -19,9 +19,6 @@ app's `.py` file
 in Windows command line:
 `set FLASK_APP=app.py`
 
-install the requirements
-`pip install -r reqs.txt`
-
 Then run the app
 `python app.py <client_id> <client_secret>`
 
@@ -33,15 +30,13 @@ docker.
 ##### Docker
 I recommend using the docker image.
 
-first run `docker pull jasonknoll/networking-spotify-proj:alpha-1.0`
+first run `docker pull jasonknoll/networking-spotify-proj:alpha-1.1`
 
 Then to create a container with the image
 `docker run --publish 8080:5000 --name spotify-metadata-proj jasonknoll/networking-spotify-proj:alpha-1.0`
 
 `--publish 8080:5000` sets the internal port of 5000 to the external port of 8080
 where we can access it. You can pick whichever port you like. I just think 8080 looks nice.
-
-`docker start` can be used once a container is created.
 
 
 #### Authenticating
