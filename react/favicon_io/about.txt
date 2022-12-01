@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Estonia
+- Font Author: Copyright 2010-2021 The Estonia Project Authors (https://github.com/googlefonts/estonia)
+- Font Source: http://fonts.gstatic.com/s/estonia/v9/7Au_p_4ijSecA1yHCCL8zkwMIFg.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))

@@ -1,0 +1,34 @@
+/* 
+param:  Element selector
+.param: Class selector
+#param: ID selector
+param, param, param: Multi-selector
+*/
+
+/* General document styling */
+html, body {
+    background-color: white;
+    margin: 0px;
+    padding: 0px;
+    height: 100vh;
+}
+
+#app-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.app, #root {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: radial-gradient(black, green);
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+

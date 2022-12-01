@@ -1,0 +1,20 @@
+/* 
+param:  Element selector
+.param: Class selector
+#param: ID selector
+param, param, param: Multi-selector
+*/
+
+#header-container {
+    /* display: flex; */
+}
+
+.header-text {
+    margin: 0px;
+
+    /* Title text attributes */
+    text-decoration-color: white;
+    text-align: center;
+    font-family: 'Crimson Pro', serif;
+    font-size: 69px;
+}

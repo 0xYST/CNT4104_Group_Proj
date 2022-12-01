@@ -1,0 +1,39 @@
+/* 
+param:  Element selector
+.param: Class selector
+#param: ID selector
+param, param, param: Multi-selector
+*/
+
+/* Searchbar Styling sheet */
+#search-bar-container {
+    /*
+    position: relative;
+    display: flex;
+    justify-content: center;
+
+    top: 50px;
+    */
+}
+
+#song-search-form {
+    border-style: hidden;
+
+    /*
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    */
+}
+
+#search-bar {
+    width: 75vw;
+    height: 25px;
+}
+
+#search-button {
+    width: 20%;
+    border: solid;
+    border-width: 1px;
+    margin: auto;
+}
