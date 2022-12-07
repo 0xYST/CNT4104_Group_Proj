@@ -13,7 +13,24 @@ function App() {
         </label>
         <input type="submit" value="Submit" />
         </form>
+
+        <div className="trackCard">
+          <img id="albumCover"></img>
+          <p>Song name</p>
+          <hr/>
+          <p>Artist</p>
+          <hr/>
+          <p>Album</p>
+          <hr/>
+          <div className="keyTempo">
+            <p>Time signature</p>
+            <p>Key</p>
+            <p>Tempo</p>
+          </div>
+        </div>
+
       </header>
+      
     </div>
   )
 }
