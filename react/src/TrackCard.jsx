@@ -1,20 +1,23 @@
 import './TrackCard.css'
 
-function TrackCard() {
+
+
+function TrackCard({albumCover, trackName, artist, albumName, timeSig, songKey, tempo}) {
+
     return (
         <div className="trackCard">
           <div className="trackCardHeader">
-            <img id="albumCover" src="https://i.scdn.co/image/ab67616d00001e02df4c348a2f9d6c3f6c5813bd"></img>
+            <img className="albumCover" src={albumCover}></img>
             <div className="nameArtist">
-              <p>Song name</p>
-              <p>Artist</p>
-              <p>Album</p>
+              <p>{trackName}</p>
+              <p>{artist}</p>
+              <p>{albumName}</p>
             </div>
           </div>
           <div className="keyTempo">
-            <p>Time signature</p>
-            <p>Key</p>
-            <p>Tempo</p>
+            <p>{timeSig}</p>
+            <p>{songKey}</p>
+            <p>{tempo}</p>
           </div>
         </div>
     )
