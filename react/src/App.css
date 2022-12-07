@@ -14,28 +14,3 @@
 }
 
 
-.trackCard {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  padding: 2em;
-  background-color: #888;
-  max-width: 500px;
-  margin: auto;
-  border-radius: 5px;
-  box-shadow: 4px 4px;
-  font-size: 20px;
-}
-
-.trackCard hr {
-  width: 100%;
-  background-color: #888;
-}
-
-.keyTempo {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-evenly;
-  font-size: 28px;
-  width: 100%;
-}
