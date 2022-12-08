@@ -7,7 +7,7 @@
     max-width: 600px;
     margin: 40px;
     border-radius: 5px;
-    box-shadow: 4px 4px;
+    box-shadow: 4px 4px #000;
     font-size: 24px;
   }
   
@@ -33,7 +33,7 @@
 
   .nameArtist p {
     margin: 0;
-    color: #000 !important;
+    color: #fff !important;
   }
   
   .keyTempo {
@@ -42,4 +42,5 @@
     justify-content: space-evenly;
     font-size: 32px;
     width: 100%;
+    color: #fff !important;
   }

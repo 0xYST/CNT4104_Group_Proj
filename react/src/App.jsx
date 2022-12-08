@@ -80,7 +80,7 @@ async function getInputValue(){
 
 function App() {
 
-  
+  //fetch('http://localhost:8080/auth/token')
 
   return (
     <div className="App">
