@@ -15,9 +15,9 @@ function TrackCard({albumCover, trackName, artist, albumName, timeSig, songKey, 
             </div>
           </div>
           <div className="keyTempo">
-            <p>{timeSig}</p>
-            <p>{songKey}</p>
-            <p>{tempo}</p>
+            <p>Time signature: {timeSig}</p>
+            <p>Key: {songKey}</p>
+            <p>BPM: {tempo}</p>
           </div>
         </div>
     )

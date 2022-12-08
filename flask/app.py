@@ -1,12 +1,15 @@
 # THIS FILE IS IN THE DOCKER CONTAINER
 import base64
 from flask import Flask, redirect, request
+from flask_cors import CORS, cross_origin
 import requests
 import json
 import sys
 import os.path
 
 app = Flask(__name__)
+CORS(app)
+
 
 # Global Constants
 SPOTIFY_URL = 'https://api.spotify.com/v1'
