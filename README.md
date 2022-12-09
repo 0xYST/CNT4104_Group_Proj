@@ -2,6 +2,8 @@
 In this project our team will create a front end and back end and use an API to return data to the front end to give the user interesting metadata.
 We will deploy the project with docker to show that we understand scaling and working with containers and API calls on a server.
 
+**Instructions on how to run Flask server in `/flask/README.md`**
+
 # Mission:
 -	Give the user the ability to query with our interface
 -	Create a good architecture for calling to the back end and getting it to display in the front end
