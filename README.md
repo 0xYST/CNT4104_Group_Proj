@@ -39,4 +39,7 @@ to life (See Below)
 ![alt text](https://github.com/Hexseral/CNT4104_Group_Proj/blob/master/basic_demo.png)
 
 # Completed Front end
+The landing Page
 ![alt text](https://github.com/Hexseral/CNT4104_Group_Proj/blob/master/completed%20front%20end.png)
+The card Page
+![alt text]([https://github.com/Hexseral/CNT4104_Group_Proj/blob/master/completed%20front%20end.png](https://github.com/Hexseral/CNT4104_Group_Proj/blob/master/completed%20front%20end%20card.png))
