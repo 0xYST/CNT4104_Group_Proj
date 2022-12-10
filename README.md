@@ -43,3 +43,6 @@ The landing Page
 ![alt text](https://github.com/Hexseral/CNT4104_Group_Proj/blob/master/completed%20front%20end.png)
 The card Page
 ![alt text](https://github.com/Hexseral/CNT4104_Group_Proj/blob/master/completed%20front%20end%20card.png)
+
+# Demo
+https://www.youtube.com/watch?v=VNjEyzxVSnY&list=LLQN14ZPHLrmYeVw1wmdHe6A
